@@ -1,0 +1,137 @@
+{
+  "heavypunch": {
+    "sounds": [
+      "plusultra:heavypunch"
+    ]
+  },
+  "dash": {
+    "sounds": [
+      "plusultra:dash"
+    ]
+  },
+  "lightning_strike": {
+    "sounds": [
+      "plusultra:lightning_strike"
+    ]
+  },
+  "fire": {
+    "sounds": [
+      "plusultra:fire"
+    ]
+  },
+  "ice": {
+    "sounds": [
+      "plusultra:ice"
+    ]
+  },
+  "ice2": {
+    "sounds": [
+      "plusultra:ice2"
+    ]
+  },
+  "heardening": {
+    "sounds": [
+      "plusultra:heardening"
+    ]
+  },
+  "punch": {
+    "sounds": [
+      "plusultra:punch"
+    ]
+  },
+  "kinzoku1": {
+    "sounds": [
+      "plusultra:kinzoku1"
+    ]
+  },
+  "effect": {
+    "sounds": [
+      "plusultra:effect"
+    ]
+  },
+  "rock": {
+    "sounds": [
+      "plusultra:rock"
+    ]
+  },
+  "heavyswing": {
+    "sounds": [
+      "plusultra:heavyswing"
+    ]
+  },
+  "laser": {
+    "sounds": [
+      "plusultra:laser"
+    ]
+  },
+  "charge": {
+    "sounds": [
+      "plusultra:charge"
+    ]
+  },
+  "swing": {
+    "sounds": [
+      "plusultra:swing"
+    ]
+  },
+  "glass": {
+    "sounds": [
+      "plusultra:glass"
+    ]
+  },
+  "tornado": {
+    "sounds": [
+      "plusultra:tornado"
+    ]
+  },
+  "wing": {
+    "sounds": [
+      "plusultra:wing"
+    ]
+  },
+  "bite_strong": {
+    "sounds": [
+      "plusultra:bite_strong"
+    ]
+  },
+  "decay": {
+    "sounds": [
+      "plusultra:decay"
+    ]
+  },
+  "blood_1": {
+    "sounds": [
+      "plusultra:blood_1"
+    ]
+  },
+  "muchi": {
+    "sounds": [
+      "plusultra:muchi"
+    ]
+  },
+  "whip": {
+    "sounds": [
+      "plusultra:whip"
+    ]
+  },
+  "water": {
+    "sounds": [
+      "plusultra:water"
+    ]
+  },
+  "onpa": {
+    "sounds": [
+      "plusultra:onpa"
+    ]
+  },
+  "hajiku": {
+    "sounds": [
+      "plusultra:hajiku"
+    ]
+  },
+  "muchi_swing": {
+    "sounds": [
+      "plusultra:muchi_swing"
+    ]
+  }
+}
