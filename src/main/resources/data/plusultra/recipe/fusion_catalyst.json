@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ADA",
+    "DOD",
+    "ANA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:amethyst_shard" },
+    "D": { "item": "minecraft:diamond" },
+    "O": { "item": "plusultra:quirk_orb" },
+    "N": { "item": "minecraft:nether_star" }
+  },
+  "result": { "id": "plusultra:fusion_catalyst", "count": 1 }
+}
